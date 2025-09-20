@@ -1,2 +1,6 @@
 # Ignore raw data folder
 raw_data/
+
+# Ignore auto-saved copy of notebooks
+.ipynb_checkpoints/
+
