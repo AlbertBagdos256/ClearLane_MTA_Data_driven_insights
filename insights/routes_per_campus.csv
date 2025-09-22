@@ -1,0 +1,402 @@
+campus_name,route_id,stop_count
+Baruch College,BM1,17
+Baruch College,BM2,17
+Baruch College,BM3,17
+Baruch College,BM4,17
+Baruch College,BXM10,2
+Baruch College,BXM6,2
+Baruch College,BXM7,2
+Baruch College,BXM8,2
+Baruch College,BXM9,2
+Baruch College,M1,5
+Baruch College,M101,6
+Baruch College,M102,6
+Baruch College,M103,6
+Baruch College,M2,5
+Baruch College,M23+,16
+Baruch College,M3,5
+Baruch College,QM21,2
+Baruch College,QM63,6
+Baruch College,QM64,6
+Baruch College,QM68,6
+Baruch College,SIM10,18
+Baruch College,SIM11,18
+Baruch College,SIM1C,3
+Baruch College,SIM3,20
+Baruch College,SIM31,18
+Baruch College,SIM33C,3
+Baruch College,SIM3C,3
+Baruch College,SIM4C,3
+Baruch College,SIM6,18
+Baruch College,X27,4
+Baruch College,X28,1
+Baruch College,X37,19
+Baruch College,X38,19
+Borough of Manhattan Community College,M20,9
+Borough of Manhattan Community College,M22,7
+Borough of Manhattan Community College,M9,2
+Borough of Manhattan Community College,SIM33,4
+Borough of Manhattan Community College,SIM7,4
+Borough of Manhattan Community College,SIM9,4
+Bronx Community College,BX3,5
+Bronx Community College,BX40,4
+Bronx Community College,BX42,4
+Brooklyn College,B11,4
+Brooklyn College,B49,10
+Brooklyn College,B6,5
+Brooklyn College,BM1,8
+Brooklyn College,BM3,8
+Brooklyn College,BM4,8
+College of Staten Island,S62,8
+College of Staten Island,S92,8
+College of Staten Island,S93,4
+College of Staten Island,SIM32,4
+College of Staten Island,SIM33,2
+College of Staten Island,SIM33C,2
+Guttman Community College,BM1,3
+Guttman Community College,BM2,3
+Guttman Community College,BM3,3
+Guttman Community College,BM4,3
+Guttman Community College,BM5,3
+Guttman Community College,BXM10,2
+Guttman Community College,BXM11,3
+Guttman Community College,BXM18,2
+Guttman Community College,BXM2,2
+Guttman Community College,BXM3,2
+Guttman Community College,BXM4,2
+Guttman Community College,BXM6,2
+Guttman Community College,BXM7,2
+Guttman Community College,BXM8,2
+Guttman Community College,BXM9,2
+Guttman Community College,M1,5
+Guttman Community College,M2,4
+Guttman Community College,M3,6
+Guttman Community College,M4,7
+Guttman Community College,M42,11
+Guttman Community College,M5,8
+Guttman Community College,M55,10
+Guttman Community College,M7,4
+Guttman Community College,Q32,4
+Guttman Community College,QM1,2
+Guttman Community College,QM10,2
+Guttman Community College,QM12,2
+Guttman Community College,QM15,2
+Guttman Community College,QM16,2
+Guttman Community College,QM17,2
+Guttman Community College,QM18,2
+Guttman Community College,QM2,2
+Guttman Community College,QM20,2
+Guttman Community College,QM24,2
+Guttman Community College,QM4,2
+Guttman Community College,QM5,2
+Guttman Community College,QM6,2
+Guttman Community College,QM63,1
+Guttman Community College,QM64,1
+Guttman Community College,QM68,1
+Guttman Community College,SIM10,4
+Guttman Community College,SIM1C,2
+Guttman Community College,SIM22,8
+Guttman Community College,SIM23,3
+Guttman Community College,SIM24,3
+Guttman Community College,SIM25,8
+Guttman Community College,SIM26,8
+Guttman Community College,SIM3,2
+Guttman Community College,SIM30,8
+Guttman Community College,SIM31,3
+Guttman Community College,SIM33C,1
+Guttman Community College,SIM3C,2
+Guttman Community College,SIM4C,1
+Guttman Community College,SIM8,8
+Guttman Community College,X27,2
+Guttman Community College,X28,2
+Guttman Community College,X37,2
+Guttman Community College,X38,2
+Hostos Community College,BX1,6
+Hostos Community College,BX13,1
+Hostos Community College,BX19,5
+Hostos Community College,BX2,5
+Hostos Community College,BX32,3
+Hunter College,BXM1,5
+Hunter College,BXM10,1
+Hunter College,BXM11,3
+Hunter College,BXM3,3
+Hunter College,BXM4,3
+Hunter College,BXM6,1
+Hunter College,BXM7,1
+Hunter College,BXM8,1
+Hunter College,BXM9,1
+Hunter College,M1,5
+Hunter College,M101,8
+Hunter College,M102,8
+Hunter College,M103,8
+Hunter College,M2,5
+Hunter College,M3,5
+Hunter College,M4,5
+Hunter College,M66,7
+Hunter College,M72,9
+Hunter College,M98,3
+John Jay College of Criminal Justice,BXM2,2
+John Jay College of Criminal Justice,M10,3
+John Jay College of Criminal Justice,M104,1
+John Jay College of Criminal Justice,M11,9
+John Jay College of Criminal Justice,M12,4
+John Jay College of Criminal Justice,M20,1
+John Jay College of Criminal Justice,M31,5
+John Jay College of Criminal Justice,M5,1
+John Jay College of Criminal Justice,M57,4
+John Jay College of Criminal Justice,M7,1
+LaGuardia Community College,Q32,2
+LaGuardia Community College,Q39,8
+LaGuardia Community College,Q60,2
+Lehman College,BX1,10
+Lehman College,BX10,7
+Lehman College,BX2,10
+Lehman College,BX22,1
+Lehman College,BX25,6
+Lehman College,BX26,6
+Lehman College,BX28,5
+Lehman College,BX34,1
+Lehman College,BX38,5
+Lehman College,BXM4,8
+Macaulay Honors College,BXM2,5
+Macaulay Honors College,M10,9
+Macaulay Honors College,M104,8
+Macaulay Honors College,M11,6
+Macaulay Honors College,M20,5
+Macaulay Honors College,M5,8
+Macaulay Honors College,M66,7
+Macaulay Honors College,M7,8
+Macaulay Honors College,M72,4
+Medgar Evers College,B43,2
+Medgar Evers College,B48,4
+Medgar Evers College,B49,6
+New York City College of Technology,B103,6
+New York City College of Technology,B25,5
+New York City College of Technology,B26,7
+New York City College of Technology,B38,6
+New York City College of Technology,B41,4
+New York City College of Technology,B45,1
+New York City College of Technology,B52,5
+New York City College of Technology,B54,4
+New York City College of Technology,B57,2
+New York City College of Technology,B62,3
+New York City College of Technology,B67,5
+Queensborough Community College,Q27,2
+Queensborough Community College,Q74,4
+Queensborough Community College,Q75,4
+School of Journalism,BXM2,2
+School of Journalism,M104,4
+School of Journalism,M20,9
+School of Journalism,M34A+,3
+School of Journalism,M42,8
+School of Journalism,M7,5
+School of Journalism,Q32,3
+School of Journalism,SIM22,7
+School of Journalism,SIM25,7
+School of Journalism,SIM26,7
+School of Journalism,SIM30,7
+School of Journalism,SIM8,7
+School of Labor and Urban Studies,BXM10,3
+School of Labor and Urban Studies,BXM11,2
+School of Labor and Urban Studies,BXM18,3
+School of Labor and Urban Studies,BXM2,3
+School of Labor and Urban Studies,BXM3,1
+School of Labor and Urban Studies,BXM4,1
+School of Labor and Urban Studies,BXM6,3
+School of Labor and Urban Studies,BXM7,3
+School of Labor and Urban Studies,BXM8,3
+School of Labor and Urban Studies,BXM9,3
+School of Labor and Urban Studies,M1,7
+School of Labor and Urban Studies,M2,7
+School of Labor and Urban Studies,M3,7
+School of Labor and Urban Studies,M4,7
+School of Labor and Urban Studies,M42,11
+School of Labor and Urban Studies,M5,10
+School of Labor and Urban Studies,M55,6
+School of Labor and Urban Studies,M7,6
+School of Labor and Urban Studies,Q32,6
+School of Labor and Urban Studies,QM1,2
+School of Labor and Urban Studies,QM10,1
+School of Labor and Urban Studies,QM12,1
+School of Labor and Urban Studies,QM15,1
+School of Labor and Urban Studies,QM16,1
+School of Labor and Urban Studies,QM17,1
+School of Labor and Urban Studies,QM18,1
+School of Labor and Urban Studies,QM2,2
+School of Labor and Urban Studies,QM20,2
+School of Labor and Urban Studies,QM21,1
+School of Labor and Urban Studies,QM24,1
+School of Labor and Urban Studies,QM4,3
+School of Labor and Urban Studies,QM5,2
+School of Labor and Urban Studies,QM6,2
+School of Labor and Urban Studies,SIM10,2
+School of Labor and Urban Studies,SIM1C,3
+School of Labor and Urban Studies,SIM22,8
+School of Labor and Urban Studies,SIM23,5
+School of Labor and Urban Studies,SIM24,5
+School of Labor and Urban Studies,SIM25,9
+School of Labor and Urban Studies,SIM26,8
+School of Labor and Urban Studies,SIM3,3
+School of Labor and Urban Studies,SIM30,9
+School of Labor and Urban Studies,SIM31,1
+School of Labor and Urban Studies,SIM33C,2
+School of Labor and Urban Studies,SIM3C,3
+School of Labor and Urban Studies,SIM4C,2
+School of Labor and Urban Studies,SIM8,9
+School of Labor and Urban Studies,X27,3
+School of Labor and Urban Studies,X28,3
+School of Labor and Urban Studies,X37,3
+School of Labor and Urban Studies,X38,3
+School of Law,B32,2
+School of Law,B62,2
+School of Law,Q101,6
+School of Law,Q102,2
+School of Law,Q103,2
+School of Law,Q39,2
+School of Law,Q63,2
+School of Law,Q67,6
+School of Medicine,BX33,2
+School of Medicine,M10,1
+School of Medicine,M100,8
+School of Medicine,M101,11
+School of Medicine,M11,2
+School of Medicine,M3,7
+School of Professional Studies,BM1,1
+School of Professional Studies,BM2,1
+School of Professional Studies,BM3,1
+School of Professional Studies,BM4,1
+School of Professional Studies,BXM2,3
+School of Professional Studies,BXM3,1
+School of Professional Studies,BXM4,1
+School of Professional Studies,M1,2
+School of Professional Studies,M2,2
+School of Professional Studies,M20,4
+School of Professional Studies,M3,2
+School of Professional Studies,M34+,7
+School of Professional Studies,M34A+,7
+School of Professional Studies,M5,6
+School of Professional Studies,M55,7
+School of Professional Studies,M7,9
+School of Professional Studies,Q32,3
+School of Professional Studies,QM1,1
+School of Professional Studies,QM10,2
+School of Professional Studies,QM12,2
+School of Professional Studies,QM15,2
+School of Professional Studies,QM16,2
+School of Professional Studies,QM17,2
+School of Professional Studies,QM18,2
+School of Professional Studies,QM2,2
+School of Professional Studies,QM20,2
+School of Professional Studies,QM24,2
+School of Professional Studies,QM4,1
+School of Professional Studies,QM5,1
+School of Professional Studies,QM6,1
+School of Professional Studies,SIM10,2
+School of Professional Studies,SIM1C,3
+School of Professional Studies,SIM23,7
+School of Professional Studies,SIM24,7
+School of Professional Studies,SIM3,3
+School of Professional Studies,SIM33C,1
+School of Professional Studies,SIM3C,3
+School of Professional Studies,SIM4C,1
+School of Public Health,BXM2,2
+School of Public Health,BXM3,2
+School of Public Health,BXM4,2
+School of Public Health,M1,6
+School of Public Health,M101,6
+School of Public Health,M102,8
+School of Public Health,M125,6
+School of Public Health,M2,1
+School of Public Health,M60+,2
+School of Public Health,M7,8
+The City College of New York,BX33,2
+The City College of New York,M10,1
+The City College of New York,M100,8
+The City College of New York,M101,11
+The City College of New York,M11,2
+The City College of New York,M3,7
+The Graduate School and University Center,BM1,5
+The Graduate School and University Center,BM2,5
+The Graduate School and University Center,BM3,5
+The Graduate School and University Center,BM4,5
+The Graduate School and University Center,BM5,11
+The Graduate School and University Center,BXM10,3
+The Graduate School and University Center,BXM11,5
+The Graduate School and University Center,BXM18,2
+The Graduate School and University Center,BXM2,1
+The Graduate School and University Center,BXM3,3
+The Graduate School and University Center,BXM4,3
+The Graduate School and University Center,BXM6,2
+The Graduate School and University Center,BXM7,2
+The Graduate School and University Center,BXM8,2
+The Graduate School and University Center,BXM9,3
+The Graduate School and University Center,M1,10
+The Graduate School and University Center,M2,10
+The Graduate School and University Center,M3,12
+The Graduate School and University Center,M34+,10
+The Graduate School and University Center,M34A+,10
+The Graduate School and University Center,M4,11
+The Graduate School and University Center,M5,7
+The Graduate School and University Center,M55,8
+The Graduate School and University Center,M7,2
+The Graduate School and University Center,Q32,6
+The Graduate School and University Center,QM1,3
+The Graduate School and University Center,QM10,4
+The Graduate School and University Center,QM12,4
+The Graduate School and University Center,QM15,3
+The Graduate School and University Center,QM16,3
+The Graduate School and University Center,QM17,3
+The Graduate School and University Center,QM18,3
+The Graduate School and University Center,QM2,3
+The Graduate School and University Center,QM20,3
+The Graduate School and University Center,QM21,2
+The Graduate School and University Center,QM24,4
+The Graduate School and University Center,QM4,3
+The Graduate School and University Center,QM5,3
+The Graduate School and University Center,QM6,3
+The Graduate School and University Center,QM63,1
+The Graduate School and University Center,QM64,1
+The Graduate School and University Center,QM68,1
+The Graduate School and University Center,SIM10,4
+The Graduate School and University Center,SIM11,3
+The Graduate School and University Center,SIM1C,3
+The Graduate School and University Center,SIM23,10
+The Graduate School and University Center,SIM24,10
+The Graduate School and University Center,SIM3,3
+The Graduate School and University Center,SIM31,5
+The Graduate School and University Center,SIM33C,4
+The Graduate School and University Center,SIM3C,3
+The Graduate School and University Center,SIM4C,4
+The Graduate School and University Center,SIM6,3
+The Graduate School and University Center,X27,5
+The Graduate School and University Center,X28,5
+The Graduate School and University Center,X37,5
+The Graduate School and University Center,X38,5
+York College,Q06,4
+York College,Q08,4
+York College,Q09,2
+York College,Q110,9
+York College,Q111,4
+York College,Q112,6
+York College,Q113,4
+York College,Q114,4
+York College,Q115,6
+York College,Q17,2
+York College,Q20,9
+York College,Q30,2
+York College,Q31,2
+York College,Q4,3
+York College,Q41,5
+York College,Q42,5
+York College,Q44+,3
+York College,Q5,4
+York College,Q54,6
+York College,Q56,10
+York College,Q75,2
+York College,Q83,3
+York College,Q84,2
+York College,Q85,4
+York College,Q86,4
+York College,Q87,4
+York College,Q89,4
+York College,QM64,1
