@@ -26,11 +26,17 @@ load_custom_css("assets/style.css")
 # ------------------------
 @st.cache_data
 def load_csv(dataset_name: str) -> pd.DataFrame:
-    path = os.path.join("insights", f"{dataset_name}.csv")
+    # Always resolve relative to repo root
+    base_dir = os.path.dirname(os.path.dirname(__file__))  # Dashboards/
+    data_dir = os.path.join(base_dir, "data")             # Dashboards/data/
+    path = os.path.join(data_dir, f"{dataset_name}.csv")
+
     if not os.path.exists(path):
-        st.error(f"❌ Dataset '{dataset_name}.csv' not found!")
+        st.error(f"❌ Dataset '{path}' not found!")
         return pd.DataFrame()
+
     return pd.read_csv(path)
+
 
 # ------------------------
 # Visualization Functions
@@ -98,10 +104,11 @@ def plot_weekday_hour_heatmap(df: pd.DataFrame) -> alt.Chart:
 # ------------------------
 def main():
     # Load datasets
-    weekday_counts = load_csv("data/weekday_counts")
-    hourly_counts = load_csv("data/hourly_counts")
-    monthly_counts = load_csv("data/monthly_counts")
-    stop_counts = load_csv("data/stop_counts")
+    weekday_counts = load_csv("weekday_counts")
+    hourly_counts  = load_csv("hourly_counts")
+    monthly_counts = load_csv("monthly_counts")
+    stop_counts    = load_csv("stop_counts")
+
     st.title("📊 NYC Bus Violations Overview")
 
     # ------------------------
