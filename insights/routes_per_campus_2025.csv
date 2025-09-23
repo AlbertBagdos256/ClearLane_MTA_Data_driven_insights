@@ -1,122 +1,110 @@
 campus_name,borough,route_id,stop_count,total_ridership
-Borough of Manhattan Community College,Manhattan,M20,9,487571
-Borough of Manhattan Community College,Manhattan,M22,7,439653
-Borough of Manhattan Community College,Manhattan,M9,2,1193381
-Borough of Manhattan Community College,Manhattan,SIM33,4,109157
-Borough of Manhattan Community College,Manhattan,SIM7,4,155064
-Borough of Manhattan Community College,Manhattan,SIM9,4,90685
-Bronx Community College,Bronx,BX3,5,1812001
-Bronx Community College,Bronx,BX40,4,1116518
-Bronx Community College,Bronx,BX42,4,1076825
-Hostos Community College,Bronx,BX1,6,1869965
-Hostos Community College,Bronx,BX13,1,1630029
-Hostos Community College,Bronx,BX19,5,3005714
-Hostos Community College,Bronx,BX2,5,1968148
-Hostos Community College,Bronx,BX32,3,620509
-Kingsborough Community College,Brooklyn,None,0,0
+Borough of Manhattan Community College,Manhattan,M20,8,487571
+Borough of Manhattan Community College,Manhattan,M22,5,439653
+Borough of Manhattan Community College,Manhattan,M9,1,1193381
+Borough of Manhattan Community College,Manhattan,SIM33,1,109157
+Borough of Manhattan Community College,Manhattan,SIM7,1,155064
+Borough of Manhattan Community College,Manhattan,SIM9,1,90685
+Bronx Community College,Bronx,BX3,6,1812001
+Bronx Community College,Bronx,BX32,4,620509
+Bronx Community College,Bronx,BX40,6,1116518
+Bronx Community College,Bronx,BX42,6,1076825
+Hostos Community College,Bronx,BX1,4,1869965
+Hostos Community College,Bronx,BX19,3,3005714
+Hostos Community College,Bronx,BX2,2,1968148
+Kingsborough Community College,Brooklyn,B1,4,3617860
+Kingsborough Community College,Brooklyn,B49,3,1944414
 LaGuardia Community College,Queens,Q32,2,2408804
 LaGuardia Community College,Queens,Q39,8,1081709
 LaGuardia Community College,Queens,Q60,2,3434948
-Queensborough Community College,Queens,Q27,2,4469973
+Queensborough Community College,Queens,Q27,4,4469973
 Queensborough Community College,Queens,Q74,4,199312
-Queensborough Community College,Queens,Q75,4,133596
-Guttman Community College,Manhattan,BM1,3,258265
-Guttman Community College,Manhattan,BM2,3,216993
-Guttman Community College,Manhattan,BM3,3,187652
-Guttman Community College,Manhattan,BM4,3,131756
-Guttman Community College,Manhattan,BM5,3,198404
-Guttman Community College,Manhattan,BXM10,2,479548
-Guttman Community College,Manhattan,BXM11,3,324278
-Guttman Community College,Manhattan,BXM18,2,59742
+Queensborough Community College,Queens,Q75,5,133596
+Guttman Community College,Manhattan,BM1,1,258265
+Guttman Community College,Manhattan,BM2,1,216993
+Guttman Community College,Manhattan,BM3,1,187652
+Guttman Community College,Manhattan,BM4,1,131756
+Guttman Community College,Manhattan,BM5,1,198404
 Guttman Community College,Manhattan,BXM2,2,218578
-Guttman Community College,Manhattan,BXM3,2,221579
-Guttman Community College,Manhattan,BXM4,2,132194
-Guttman Community College,Manhattan,BXM6,2,218607
-Guttman Community College,Manhattan,BXM7,2,731993
-Guttman Community College,Manhattan,BXM8,2,471241
-Guttman Community College,Manhattan,BXM9,2,518579
-Guttman Community College,Manhattan,M1,5,2573060
-Guttman Community College,Manhattan,M2,4,2128389
-Guttman Community College,Manhattan,M3,6,2961938
-Guttman Community College,Manhattan,M4,7,3580379
-Guttman Community College,Manhattan,M42,11,2524345
-Guttman Community College,Manhattan,M5,8,1731771
-Guttman Community College,Manhattan,M55,10,575794
-Guttman Community College,Manhattan,M7,4,2617369
-Guttman Community College,Manhattan,Q32,4,2408804
-Guttman Community College,Manhattan,QM1,2,57993
-Guttman Community College,Manhattan,QM10,2,47033
-Guttman Community College,Manhattan,QM12,2,56738
-Guttman Community College,Manhattan,QM15,2,445248
-Guttman Community College,Manhattan,QM16,2,110347
-Guttman Community College,Manhattan,QM17,2,121072
-Guttman Community College,Manhattan,QM18,2,39494
-Guttman Community College,Manhattan,QM2,2,260196
-Guttman Community College,Manhattan,QM20,2,204400
-Guttman Community College,Manhattan,QM24,2,131152
-Guttman Community College,Manhattan,QM4,2,120267
-Guttman Community College,Manhattan,QM5,2,325376
-Guttman Community College,Manhattan,QM6,2,167307
-Guttman Community College,Manhattan,QM63,1,30976
-Guttman Community College,Manhattan,QM64,1,14619
-Guttman Community College,Manhattan,QM68,1,24691
-Guttman Community College,Manhattan,SIM10,4,438147
+Guttman Community College,Manhattan,BXM3,1,221579
+Guttman Community College,Manhattan,BXM4,1,132194
+Guttman Community College,Manhattan,M1,1,2573060
+Guttman Community College,Manhattan,M2,1,2128389
+Guttman Community College,Manhattan,M3,1,2961938
+Guttman Community College,Manhattan,M42,2,2524345
+Guttman Community College,Manhattan,M5,4,1731771
+Guttman Community College,Manhattan,M55,4,575794
+Guttman Community College,Manhattan,M7,3,2617369
+Guttman Community College,Manhattan,QM1,1,57993
+Guttman Community College,Manhattan,QM10,1,47033
+Guttman Community College,Manhattan,QM12,1,56738
+Guttman Community College,Manhattan,QM15,1,445248
+Guttman Community College,Manhattan,QM16,1,110347
+Guttman Community College,Manhattan,QM17,1,121072
+Guttman Community College,Manhattan,QM18,1,39494
+Guttman Community College,Manhattan,QM2,1,260196
+Guttman Community College,Manhattan,QM20,1,204400
+Guttman Community College,Manhattan,QM24,1,131152
+Guttman Community College,Manhattan,QM4,1,120267
+Guttman Community College,Manhattan,QM5,1,325376
+Guttman Community College,Manhattan,QM6,1,167307
+Guttman Community College,Manhattan,SIM10,2,438147
 Guttman Community College,Manhattan,SIM1C,2,1114532
-Guttman Community College,Manhattan,SIM22,8,189516
-Guttman Community College,Manhattan,SIM23,3,92867
-Guttman Community College,Manhattan,SIM24,3,83788
-Guttman Community College,Manhattan,SIM25,8,200685
-Guttman Community College,Manhattan,SIM26,8,224142
+Guttman Community College,Manhattan,SIM22,2,189516
+Guttman Community College,Manhattan,SIM25,2,200685
+Guttman Community College,Manhattan,SIM26,2,224142
 Guttman Community College,Manhattan,SIM3,2,182978
-Guttman Community College,Manhattan,SIM30,8,163229
-Guttman Community College,Manhattan,SIM31,3,143118
+Guttman Community College,Manhattan,SIM30,2,163229
+Guttman Community College,Manhattan,SIM31,1,143118
 Guttman Community College,Manhattan,SIM33C,1,414111
 Guttman Community College,Manhattan,SIM3C,2,331816
 Guttman Community College,Manhattan,SIM4C,1,483559
-Guttman Community College,Manhattan,SIM8,8,388314
-Guttman Community College,Manhattan,X27,2,489211
-Guttman Community College,Manhattan,X28,2,489047
-Guttman Community College,Manhattan,X37,2,225056
-Guttman Community College,Manhattan,X38,2,197299
+Guttman Community College,Manhattan,SIM8,2,388314
+Guttman Community College,Manhattan,X27,1,489211
+Guttman Community College,Manhattan,X28,1,489047
+Guttman Community College,Manhattan,X37,1,225056
+Guttman Community College,Manhattan,X38,1,197299
 Medgar Evers College,Brooklyn,B43,2,1597726
 Medgar Evers College,Brooklyn,B48,4,662344
 Medgar Evers College,Brooklyn,B49,6,1944414
-New York City College of Technology,Brooklyn,B103,6,2144266
-New York City College of Technology,Brooklyn,B25,5,1219507
-New York City College of Technology,Brooklyn,B26,7,1726824
-New York City College of Technology,Brooklyn,B38,6,3381958
-New York City College of Technology,Brooklyn,B41,4,3995947
-New York City College of Technology,Brooklyn,B45,1,771828
-New York City College of Technology,Brooklyn,B52,5,1899002
-New York City College of Technology,Brooklyn,B54,4,1438165
+New York City College of Technology,Brooklyn,B103,5,2144266
+New York City College of Technology,Brooklyn,B25,1,1219507
+New York City College of Technology,Brooklyn,B26,5,1726824
+New York City College of Technology,Brooklyn,B38,3,3381958
+New York City College of Technology,Brooklyn,B41,2,3995947
+New York City College of Technology,Brooklyn,B52,3,1899002
+New York City College of Technology,Brooklyn,B54,3,1438165
 New York City College of Technology,Brooklyn,B57,2,1531083
-New York City College of Technology,Brooklyn,B62,3,1544007
-New York City College of Technology,Brooklyn,B67,5,923583
-College of Staten Island,Staten Island,S62,8,551778
-College of Staten Island,Staten Island,S92,8,97930
-College of Staten Island,Staten Island,S93,4,651619
-College of Staten Island,Staten Island,SIM32,4,92394
-College of Staten Island,Staten Island,SIM33,2,109157
-College of Staten Island,Staten Island,SIM33C,2,414111
-School of Labor and Urban Studies,Manhattan,BXM10,3,479548
+New York City College of Technology,Brooklyn,B62,2,1544007
+New York City College of Technology,Brooklyn,B67,4,923583
+College of Staten Island,Staten Island,S44,6,821948
+College of Staten Island,Staten Island,S59,6,465841
+College of Staten Island,Staten Island,S62,15,551778
+College of Staten Island,Staten Island,S89,4,69376
+College of Staten Island,Staten Island,S92,15,97930
+College of Staten Island,Staten Island,S93,8,651619
+College of Staten Island,Staten Island,S94,6,107807
+College of Staten Island,Staten Island,SIM32,7,92394
+College of Staten Island,Staten Island,SIM33,10,109157
+College of Staten Island,Staten Island,SIM33C,10,414111
+College of Staten Island,Staten Island,SIM4,6,272654
+College of Staten Island,Staten Island,SIM4C,5,483559
+College of Staten Island,Staten Island,SIM8,7,388314
+School of Labor and Urban Studies,Manhattan,BXM10,2,479548
 School of Labor and Urban Studies,Manhattan,BXM11,2,324278
-School of Labor and Urban Studies,Manhattan,BXM18,3,59742
-School of Labor and Urban Studies,Manhattan,BXM2,3,218578
-School of Labor and Urban Studies,Manhattan,BXM3,1,221579
-School of Labor and Urban Studies,Manhattan,BXM4,1,132194
-School of Labor and Urban Studies,Manhattan,BXM6,3,218607
-School of Labor and Urban Studies,Manhattan,BXM7,3,731993
-School of Labor and Urban Studies,Manhattan,BXM8,3,471241
-School of Labor and Urban Studies,Manhattan,BXM9,3,518579
-School of Labor and Urban Studies,Manhattan,M1,7,2573060
-School of Labor and Urban Studies,Manhattan,M2,7,2128389
-School of Labor and Urban Studies,Manhattan,M3,7,2961938
-School of Labor and Urban Studies,Manhattan,M4,7,3580379
-School of Labor and Urban Studies,Manhattan,M42,11,2524345
-School of Labor and Urban Studies,Manhattan,M5,10,1731771
-School of Labor and Urban Studies,Manhattan,M55,6,575794
-School of Labor and Urban Studies,Manhattan,M7,6,2617369
-School of Labor and Urban Studies,Manhattan,Q32,6,2408804
+School of Labor and Urban Studies,Manhattan,BXM18,2,59742
+School of Labor and Urban Studies,Manhattan,BXM6,2,218607
+School of Labor and Urban Studies,Manhattan,BXM7,2,731993
+School of Labor and Urban Studies,Manhattan,BXM8,2,471241
+School of Labor and Urban Studies,Manhattan,BXM9,2,518579
+School of Labor and Urban Studies,Manhattan,M1,1,2573060
+School of Labor and Urban Studies,Manhattan,M2,1,2128389
+School of Labor and Urban Studies,Manhattan,M3,1,2961938
+School of Labor and Urban Studies,Manhattan,M4,1,3580379
+School of Labor and Urban Studies,Manhattan,M42,6,2524345
+School of Labor and Urban Studies,Manhattan,M5,4,1731771
+School of Labor and Urban Studies,Manhattan,M55,3,575794
+School of Labor and Urban Studies,Manhattan,M7,3,2617369
 School of Labor and Urban Studies,Manhattan,QM1,2,57993
 School of Labor and Urban Studies,Manhattan,QM10,1,47033
 School of Labor and Urban Studies,Manhattan,QM12,1,56738
@@ -126,279 +114,229 @@ School of Labor and Urban Studies,Manhattan,QM17,1,121072
 School of Labor and Urban Studies,Manhattan,QM18,1,39494
 School of Labor and Urban Studies,Manhattan,QM2,2,260196
 School of Labor and Urban Studies,Manhattan,QM20,2,204400
-School of Labor and Urban Studies,Manhattan,QM21,1,34590
 School of Labor and Urban Studies,Manhattan,QM24,1,131152
 School of Labor and Urban Studies,Manhattan,QM4,3,120267
 School of Labor and Urban Studies,Manhattan,QM5,2,325376
 School of Labor and Urban Studies,Manhattan,QM6,2,167307
-School of Labor and Urban Studies,Manhattan,SIM10,2,438147
-School of Labor and Urban Studies,Manhattan,SIM1C,3,1114532
-School of Labor and Urban Studies,Manhattan,SIM22,8,189516
-School of Labor and Urban Studies,Manhattan,SIM23,5,92867
-School of Labor and Urban Studies,Manhattan,SIM24,5,83788
-School of Labor and Urban Studies,Manhattan,SIM25,9,200685
-School of Labor and Urban Studies,Manhattan,SIM26,8,224142
-School of Labor and Urban Studies,Manhattan,SIM3,3,182978
-School of Labor and Urban Studies,Manhattan,SIM30,9,163229
-School of Labor and Urban Studies,Manhattan,SIM31,1,143118
-School of Labor and Urban Studies,Manhattan,SIM33C,2,414111
-School of Labor and Urban Studies,Manhattan,SIM3C,3,331816
-School of Labor and Urban Studies,Manhattan,SIM4C,2,483559
-School of Labor and Urban Studies,Manhattan,SIM8,9,388314
-School of Labor and Urban Studies,Manhattan,X27,3,489211
-School of Labor and Urban Studies,Manhattan,X28,3,489047
-School of Labor and Urban Studies,Manhattan,X37,3,225056
-School of Labor and Urban Studies,Manhattan,X38,3,197299
-School of Law,Queens,B32,2,256780
-School of Law,Queens,B62,2,1544007
+School of Labor and Urban Studies,Manhattan,SIM22,4,189516
+School of Labor and Urban Studies,Manhattan,SIM23,3,92867
+School of Labor and Urban Studies,Manhattan,SIM24,3,83788
+School of Labor and Urban Studies,Manhattan,SIM25,7,200685
+School of Labor and Urban Studies,Manhattan,SIM26,4,224142
+School of Labor and Urban Studies,Manhattan,SIM30,6,163229
+School of Labor and Urban Studies,Manhattan,SIM8,6,388314
+School of Labor and Urban Studies,Manhattan,X27,1,489211
+School of Labor and Urban Studies,Manhattan,X28,1,489047
+School of Labor and Urban Studies,Manhattan,X37,1,225056
+School of Labor and Urban Studies,Manhattan,X38,1,197299
 School of Law,Queens,Q101,6,860725
 School of Law,Queens,Q102,2,612958
-School of Law,Queens,Q103,2,374014
 School of Law,Queens,Q39,2,1081709
 School of Law,Queens,Q63,2,566499
 School of Law,Queens,Q67,6,564107
-The Graduate School and University Center,Manhattan,BM1,5,258265
-The Graduate School and University Center,Manhattan,BM2,5,216993
-The Graduate School and University Center,Manhattan,BM3,5,187652
-The Graduate School and University Center,Manhattan,BM4,5,131756
-The Graduate School and University Center,Manhattan,BM5,11,198404
-The Graduate School and University Center,Manhattan,BXM10,3,479548
-The Graduate School and University Center,Manhattan,BXM11,5,324278
+The Graduate School and University Center,Manhattan,BM1,3,258265
+The Graduate School and University Center,Manhattan,BM2,3,216993
+The Graduate School and University Center,Manhattan,BM3,3,187652
+The Graduate School and University Center,Manhattan,BM4,3,131756
+The Graduate School and University Center,Manhattan,BM5,8,198404
+The Graduate School and University Center,Manhattan,BXM10,2,479548
+The Graduate School and University Center,Manhattan,BXM11,3,324278
 The Graduate School and University Center,Manhattan,BXM18,2,59742
-The Graduate School and University Center,Manhattan,BXM2,1,218578
-The Graduate School and University Center,Manhattan,BXM3,3,221579
-The Graduate School and University Center,Manhattan,BXM4,3,132194
+The Graduate School and University Center,Manhattan,BXM3,2,221579
+The Graduate School and University Center,Manhattan,BXM4,2,132194
 The Graduate School and University Center,Manhattan,BXM6,2,218607
 The Graduate School and University Center,Manhattan,BXM7,2,731993
 The Graduate School and University Center,Manhattan,BXM8,2,471241
 The Graduate School and University Center,Manhattan,BXM9,3,518579
-The Graduate School and University Center,Manhattan,M1,10,2573060
-The Graduate School and University Center,Manhattan,M2,10,2128389
-The Graduate School and University Center,Manhattan,M3,12,2961938
-The Graduate School and University Center,Manhattan,M34+,10,1507539
-The Graduate School and University Center,Manhattan,M34A+,10,1485936
-The Graduate School and University Center,Manhattan,M4,11,3580379
-The Graduate School and University Center,Manhattan,M5,7,1731771
-The Graduate School and University Center,Manhattan,M55,8,575794
-The Graduate School and University Center,Manhattan,M7,2,2617369
-The Graduate School and University Center,Manhattan,Q32,6,2408804
-The Graduate School and University Center,Manhattan,QM1,3,57993
-The Graduate School and University Center,Manhattan,QM10,4,47033
-The Graduate School and University Center,Manhattan,QM12,4,56738
+The Graduate School and University Center,Manhattan,M1,5,2573060
+The Graduate School and University Center,Manhattan,M2,5,2128389
+The Graduate School and University Center,Manhattan,M3,7,2961938
+The Graduate School and University Center,Manhattan,M34+,4,1507539
+The Graduate School and University Center,Manhattan,M34A+,4,1485936
+The Graduate School and University Center,Manhattan,M4,7,3580379
+The Graduate School and University Center,Manhattan,M5,4,1731771
+The Graduate School and University Center,Manhattan,M55,4,575794
+The Graduate School and University Center,Manhattan,Q32,2,2408804
+The Graduate School and University Center,Manhattan,QM1,2,57993
+The Graduate School and University Center,Manhattan,QM10,2,47033
+The Graduate School and University Center,Manhattan,QM12,2,56738
 The Graduate School and University Center,Manhattan,QM15,3,445248
 The Graduate School and University Center,Manhattan,QM16,3,110347
 The Graduate School and University Center,Manhattan,QM17,3,121072
 The Graduate School and University Center,Manhattan,QM18,3,39494
-The Graduate School and University Center,Manhattan,QM2,3,260196
-The Graduate School and University Center,Manhattan,QM20,3,204400
-The Graduate School and University Center,Manhattan,QM21,2,34590
-The Graduate School and University Center,Manhattan,QM24,4,131152
-The Graduate School and University Center,Manhattan,QM4,3,120267
-The Graduate School and University Center,Manhattan,QM5,3,325376
-The Graduate School and University Center,Manhattan,QM6,3,167307
+The Graduate School and University Center,Manhattan,QM2,2,260196
+The Graduate School and University Center,Manhattan,QM20,2,204400
+The Graduate School and University Center,Manhattan,QM21,1,34590
+The Graduate School and University Center,Manhattan,QM24,2,131152
+The Graduate School and University Center,Manhattan,QM4,2,120267
+The Graduate School and University Center,Manhattan,QM5,2,325376
+The Graduate School and University Center,Manhattan,QM6,2,167307
 The Graduate School and University Center,Manhattan,QM63,1,30976
 The Graduate School and University Center,Manhattan,QM64,1,14619
 The Graduate School and University Center,Manhattan,QM68,1,24691
-The Graduate School and University Center,Manhattan,SIM10,4,438147
+The Graduate School and University Center,Manhattan,SIM10,2,438147
 The Graduate School and University Center,Manhattan,SIM11,3,189330
-The Graduate School and University Center,Manhattan,SIM1C,3,1114532
-The Graduate School and University Center,Manhattan,SIM23,10,92867
-The Graduate School and University Center,Manhattan,SIM24,10,83788
-The Graduate School and University Center,Manhattan,SIM3,3,182978
+The Graduate School and University Center,Manhattan,SIM1C,1,1114532
+The Graduate School and University Center,Manhattan,SIM23,5,92867
+The Graduate School and University Center,Manhattan,SIM24,5,83788
+The Graduate School and University Center,Manhattan,SIM3,1,182978
 The Graduate School and University Center,Manhattan,SIM31,5,143118
 The Graduate School and University Center,Manhattan,SIM33C,4,414111
-The Graduate School and University Center,Manhattan,SIM3C,3,331816
+The Graduate School and University Center,Manhattan,SIM3C,1,331816
 The Graduate School and University Center,Manhattan,SIM4C,4,483559
 The Graduate School and University Center,Manhattan,SIM6,3,329784
-The Graduate School and University Center,Manhattan,X27,5,489211
-The Graduate School and University Center,Manhattan,X28,5,489047
-The Graduate School and University Center,Manhattan,X37,5,225056
-The Graduate School and University Center,Manhattan,X38,5,197299
-School of Professional Studies,Manhattan,BM1,1,258265
-School of Professional Studies,Manhattan,BM2,1,216993
-School of Professional Studies,Manhattan,BM3,1,187652
-School of Professional Studies,Manhattan,BM4,1,131756
-School of Professional Studies,Manhattan,BXM2,3,218578
-School of Professional Studies,Manhattan,BXM3,1,221579
-School of Professional Studies,Manhattan,BXM4,1,132194
-School of Professional Studies,Manhattan,M1,2,2573060
-School of Professional Studies,Manhattan,M2,2,2128389
-School of Professional Studies,Manhattan,M20,4,487571
-School of Professional Studies,Manhattan,M3,2,2961938
-School of Professional Studies,Manhattan,M34+,7,1507539
-School of Professional Studies,Manhattan,M34A+,7,1485936
-School of Professional Studies,Manhattan,M5,6,1731771
-School of Professional Studies,Manhattan,M55,7,575794
-School of Professional Studies,Manhattan,M7,9,2617369
+The Graduate School and University Center,Manhattan,X27,3,489211
+The Graduate School and University Center,Manhattan,X28,3,489047
+The Graduate School and University Center,Manhattan,X37,3,225056
+The Graduate School and University Center,Manhattan,X38,3,197299
+School of Professional Studies,Manhattan,M5,3,1731771
+School of Professional Studies,Manhattan,M55,2,575794
+School of Professional Studies,Manhattan,M7,2,2617369
 School of Professional Studies,Manhattan,Q32,3,2408804
-School of Professional Studies,Manhattan,QM1,1,57993
-School of Professional Studies,Manhattan,QM10,2,47033
-School of Professional Studies,Manhattan,QM12,2,56738
-School of Professional Studies,Manhattan,QM15,2,445248
-School of Professional Studies,Manhattan,QM16,2,110347
-School of Professional Studies,Manhattan,QM17,2,121072
-School of Professional Studies,Manhattan,QM18,2,39494
-School of Professional Studies,Manhattan,QM2,2,260196
-School of Professional Studies,Manhattan,QM20,2,204400
-School of Professional Studies,Manhattan,QM24,2,131152
-School of Professional Studies,Manhattan,QM4,1,120267
-School of Professional Studies,Manhattan,QM5,1,325376
-School of Professional Studies,Manhattan,QM6,1,167307
-School of Professional Studies,Manhattan,SIM10,2,438147
-School of Professional Studies,Manhattan,SIM1C,3,1114532
-School of Professional Studies,Manhattan,SIM23,7,92867
-School of Professional Studies,Manhattan,SIM24,7,83788
-School of Professional Studies,Manhattan,SIM3,3,182978
-School of Professional Studies,Manhattan,SIM33C,1,414111
-School of Professional Studies,Manhattan,SIM3C,3,331816
-School of Professional Studies,Manhattan,SIM4C,1,483559
-School of Public Health,Manhattan,BXM2,2,218578
-School of Public Health,Manhattan,BXM3,2,221579
-School of Public Health,Manhattan,BXM4,2,132194
-School of Public Health,Manhattan,M1,6,2573060
-School of Public Health,Manhattan,M101,6,4278914
-School of Public Health,Manhattan,M102,8,2622408
-School of Public Health,Manhattan,M125,6,1500176
-School of Public Health,Manhattan,M2,1,2128389
+School of Public Health,Manhattan,BXM2,1,218578
+School of Public Health,Manhattan,BXM3,1,221579
+School of Public Health,Manhattan,BXM4,1,132194
+School of Public Health,Manhattan,M1,2,2573060
+School of Public Health,Manhattan,M101,3,4278914
+School of Public Health,Manhattan,M102,4,2622408
+School of Public Health,Manhattan,M125,3,1500176
 School of Public Health,Manhattan,M60+,2,2298984
-School of Public Health,Manhattan,M7,8,2617369
+School of Public Health,Manhattan,M7,4,2617369
 School of Journalism,Manhattan,BXM2,2,218578
-School of Journalism,Manhattan,M104,4,1960370
-School of Journalism,Manhattan,M20,9,487571
-School of Journalism,Manhattan,M34A+,3,1485936
-School of Journalism,Manhattan,M42,8,2524345
-School of Journalism,Manhattan,M7,5,2617369
-School of Journalism,Manhattan,Q32,3,2408804
-School of Journalism,Manhattan,SIM22,7,189516
-School of Journalism,Manhattan,SIM25,7,200685
-School of Journalism,Manhattan,SIM26,7,224142
-School of Journalism,Manhattan,SIM30,7,163229
-School of Journalism,Manhattan,SIM8,7,388314
-Macaulay Honors College,Manhattan,BXM2,5,218578
-Macaulay Honors College,Manhattan,M10,9,1112341
-Macaulay Honors College,Manhattan,M104,8,1960370
-Macaulay Honors College,Manhattan,M11,6,2793375
-Macaulay Honors College,Manhattan,M20,5,487571
-Macaulay Honors College,Manhattan,M5,8,1731771
-Macaulay Honors College,Manhattan,M66,7,1643575
-Macaulay Honors College,Manhattan,M7,8,2617369
-Macaulay Honors College,Manhattan,M72,4,1028392
-Baruch College,Manhattan,BM1,17,258265
-Baruch College,Manhattan,BM2,17,216993
-Baruch College,Manhattan,BM3,17,187652
-Baruch College,Manhattan,BM4,17,131756
+School of Journalism,Manhattan,M104,2,1960370
+School of Journalism,Manhattan,M20,4,487571
+School of Journalism,Manhattan,M34A+,1,1485936
+School of Journalism,Manhattan,M42,5,2524345
+School of Journalism,Manhattan,M7,2,2617369
+School of Journalism,Manhattan,SIM22,5,189516
+School of Journalism,Manhattan,SIM25,5,200685
+School of Journalism,Manhattan,SIM26,5,224142
+School of Journalism,Manhattan,SIM30,5,163229
+School of Journalism,Manhattan,SIM8,5,388314
+Macaulay Honors College,Manhattan,M10,3,1112341
+Macaulay Honors College,Manhattan,M104,2,1960370
+Macaulay Honors College,Manhattan,M11,2,2793375
+Macaulay Honors College,Manhattan,M20,2,487571
+Macaulay Honors College,Manhattan,M5,2,1731771
+Macaulay Honors College,Manhattan,M66,5,1643575
+Macaulay Honors College,Manhattan,M7,3,2617369
+Macaulay Honors College,Manhattan,M72,2,1028392
+Baruch College,Manhattan,BM1,15,258265
+Baruch College,Manhattan,BM2,15,216993
+Baruch College,Manhattan,BM3,15,187652
+Baruch College,Manhattan,BM4,15,131756
 Baruch College,Manhattan,BXM10,2,479548
 Baruch College,Manhattan,BXM6,2,218607
 Baruch College,Manhattan,BXM7,2,731993
 Baruch College,Manhattan,BXM8,2,471241
 Baruch College,Manhattan,BXM9,2,518579
-Baruch College,Manhattan,M1,5,2573060
+Baruch College,Manhattan,M1,2,2573060
 Baruch College,Manhattan,M101,6,4278914
 Baruch College,Manhattan,M102,6,2622408
 Baruch College,Manhattan,M103,6,2446785
-Baruch College,Manhattan,M2,5,2128389
-Baruch College,Manhattan,M23+,16,2373211
-Baruch College,Manhattan,M3,5,2961938
+Baruch College,Manhattan,M2,2,2128389
+Baruch College,Manhattan,M23+,13,2373211
+Baruch College,Manhattan,M3,2,2961938
 Baruch College,Manhattan,QM21,2,34590
-Baruch College,Manhattan,QM63,6,30976
-Baruch College,Manhattan,QM64,6,14619
-Baruch College,Manhattan,QM68,6,24691
-Baruch College,Manhattan,SIM10,18,438147
-Baruch College,Manhattan,SIM11,18,189330
-Baruch College,Manhattan,SIM1C,3,1114532
-Baruch College,Manhattan,SIM3,20,182978
-Baruch College,Manhattan,SIM31,18,143118
-Baruch College,Manhattan,SIM33C,3,414111
-Baruch College,Manhattan,SIM3C,3,331816
-Baruch College,Manhattan,SIM4C,3,483559
-Baruch College,Manhattan,SIM6,18,329784
-Baruch College,Manhattan,X27,4,489211
+Baruch College,Manhattan,QM63,3,30976
+Baruch College,Manhattan,QM64,3,14619
+Baruch College,Manhattan,QM68,3,24691
+Baruch College,Manhattan,SIM10,15,438147
+Baruch College,Manhattan,SIM11,15,189330
+Baruch College,Manhattan,SIM3,15,182978
+Baruch College,Manhattan,SIM31,15,143118
+Baruch College,Manhattan,SIM6,15,329784
+Baruch College,Manhattan,X27,2,489211
 Baruch College,Manhattan,X28,1,489047
-Baruch College,Manhattan,X37,19,225056
-Baruch College,Manhattan,X38,19,197299
-Brooklyn College,Brooklyn,B11,4,2005092
-Brooklyn College,Brooklyn,B49,10,1944414
-Brooklyn College,Brooklyn,B6,5,5318227
-Brooklyn College,Brooklyn,BM1,8,258265
-Brooklyn College,Brooklyn,BM3,8,187652
-Brooklyn College,Brooklyn,BM4,8,131756
+Baruch College,Manhattan,X37,17,225056
+Baruch College,Manhattan,X38,17,197299
+Brooklyn College,Brooklyn,B11,11,2005092
+Brooklyn College,Brooklyn,B49,12,1944414
+Brooklyn College,Brooklyn,B6,12,5318227
+Brooklyn College,Brooklyn,BM1,10,258265
+Brooklyn College,Brooklyn,BM3,10,187652
+Brooklyn College,Brooklyn,BM4,10,131756
 The City College of New York,Manhattan,BX33,2,278167
-The City College of New York,Manhattan,M10,1,1112341
-The City College of New York,Manhattan,M100,8,1640217
-The City College of New York,Manhattan,M101,11,4278914
-The City College of New York,Manhattan,M11,2,2793375
-The City College of New York,Manhattan,M3,7,2961938
-School of Medicine,Manhattan,BX33,2,278167
-School of Medicine,Manhattan,M10,1,1112341
+The City College of New York,Manhattan,M10,8,1112341
+The City College of New York,Manhattan,M100,12,1640217
+The City College of New York,Manhattan,M101,15,4278914
+The City College of New York,Manhattan,M11,6,2793375
+The City College of New York,Manhattan,M3,10,2961938
+The City College of New York,Manhattan,M4,6,3580379
+The City College of New York,Manhattan,M5,5,1731771
 School of Medicine,Manhattan,M100,8,1640217
-School of Medicine,Manhattan,M101,11,4278914
+School of Medicine,Manhattan,M101,9,4278914
 School of Medicine,Manhattan,M11,2,2793375
-School of Medicine,Manhattan,M3,7,2961938
-Hunter College,Manhattan,BXM1,5,386612
+School of Medicine,Manhattan,M3,4,2961938
+Hunter College,Manhattan,BXM1,4,386612
 Hunter College,Manhattan,BXM10,1,479548
-Hunter College,Manhattan,BXM11,3,324278
-Hunter College,Manhattan,BXM3,3,221579
-Hunter College,Manhattan,BXM4,3,132194
+Hunter College,Manhattan,BXM11,1,324278
+Hunter College,Manhattan,BXM3,1,221579
+Hunter College,Manhattan,BXM4,1,132194
 Hunter College,Manhattan,BXM6,1,218607
 Hunter College,Manhattan,BXM7,1,731993
 Hunter College,Manhattan,BXM8,1,471241
 Hunter College,Manhattan,BXM9,1,518579
-Hunter College,Manhattan,M1,5,2573060
-Hunter College,Manhattan,M101,8,4278914
-Hunter College,Manhattan,M102,8,2622408
-Hunter College,Manhattan,M103,8,2446785
-Hunter College,Manhattan,M2,5,2128389
-Hunter College,Manhattan,M3,5,2961938
-Hunter College,Manhattan,M4,5,3580379
-Hunter College,Manhattan,M66,7,1643575
-Hunter College,Manhattan,M72,9,1028392
+Hunter College,Manhattan,M1,3,2573060
+Hunter College,Manhattan,M101,7,4278914
+Hunter College,Manhattan,M102,7,2622408
+Hunter College,Manhattan,M103,7,2446785
+Hunter College,Manhattan,M2,3,2128389
+Hunter College,Manhattan,M3,3,2961938
+Hunter College,Manhattan,M4,3,3580379
+Hunter College,Manhattan,M66,5,1643575
+Hunter College,Manhattan,M72,5,1028392
 Hunter College,Manhattan,M98,3,279075
-John Jay College of Criminal Justice,Manhattan,BXM2,2,218578
-John Jay College of Criminal Justice,Manhattan,M10,3,1112341
-John Jay College of Criminal Justice,Manhattan,M104,1,1960370
-John Jay College of Criminal Justice,Manhattan,M11,9,2793375
+John Jay College of Criminal Justice,Manhattan,M11,5,2793375
 John Jay College of Criminal Justice,Manhattan,M12,4,384724
-John Jay College of Criminal Justice,Manhattan,M20,1,487571
-John Jay College of Criminal Justice,Manhattan,M31,5,2532961
-John Jay College of Criminal Justice,Manhattan,M5,1,1731771
+John Jay College of Criminal Justice,Manhattan,M31,4,2532961
 John Jay College of Criminal Justice,Manhattan,M57,4,1709293
-John Jay College of Criminal Justice,Manhattan,M7,1,2617369
-Lehman College,Bronx,BX1,10,1869965
-Lehman College,Bronx,BX10,7,1639370
-Lehman College,Bronx,BX2,10,1968148
-Lehman College,Bronx,BX22,1,1440094
-Lehman College,Bronx,BX25,6,450537
-Lehman College,Bronx,BX26,6,477262
-Lehman College,Bronx,BX28,5,1102792
-Lehman College,Bronx,BX34,1,488350
-Lehman College,Bronx,BX38,5,760422
+Lehman College,Bronx,BX1,12,1869965
+Lehman College,Bronx,BX10,8,1639370
+Lehman College,Bronx,BX2,12,1968148
+Lehman College,Bronx,BX22,5,1440094
+Lehman College,Bronx,BX25,11,450537
+Lehman College,Bronx,BX26,11,477262
+Lehman College,Bronx,BX28,8,1102792
+Lehman College,Bronx,BX34,5,488350
+Lehman College,Bronx,BX38,8,760422
 Lehman College,Bronx,BXM4,8,132194
-Queens College,Queens,None,0,0
+Queens College,Queens,Q17,5,3324072
+Queens College,Queens,Q20,6,991706
+Queens College,Queens,Q25,8,4957160
+Queens College,Queens,Q44+,4,4414545
+Queens College,Queens,Q64,2,1731107
+Queens College,Queens,Q74,2,199312
+Queens College,Queens,Q88,7,2225266
+Queens College,Queens,QM4,2,120267
+Queens College,Queens,QM44,2,30573
 York College,Queens,Q06,4,1737349
 York College,Queens,Q08,4,1845717
 York College,Queens,Q09,2,734225
-York College,Queens,Q110,9,1172052
+York College,Queens,Q110,11,1172052
 York College,Queens,Q111,4,1818511
-York College,Queens,Q112,6,898248
+York College,Queens,Q112,9,898248
 York College,Queens,Q113,4,685840
 York College,Queens,Q114,4,1120777
-York College,Queens,Q115,6,300982
+York College,Queens,Q115,7,300982
 York College,Queens,Q17,2,3324072
 York College,Queens,Q20,9,991706
-York College,Queens,Q30,2,1449969
-York College,Queens,Q31,2,1028789
+York College,Queens,Q25,2,4957160
+York College,Queens,Q30,3,1449969
+York College,Queens,Q31,3,1028789
 York College,Queens,Q4,3,1462731
 York College,Queens,Q41,5,1152582
 York College,Queens,Q42,5,188440
 York College,Queens,Q44+,3,4414545
-York College,Queens,Q5,4,1771196
-York College,Queens,Q54,6,2343826
-York College,Queens,Q56,10,1206824
-York College,Queens,Q75,2,133596
+York College,Queens,Q5,5,1771196
+York College,Queens,Q54,8,2343826
+York College,Queens,Q56,12,1206824
+York College,Queens,Q65,2,4207464
+York College,Queens,Q75,3,133596
 York College,Queens,Q83,3,1601789
 York College,Queens,Q84,2,769509
-York College,Queens,Q85,4,1532124
+York College,Queens,Q85,5,1532124
 York College,Queens,Q86,4,188279
 York College,Queens,Q87,4,181233
-York College,Queens,Q89,4,182582
+York College,Queens,Q89,5,182582
 York College,Queens,QM64,1,14619
