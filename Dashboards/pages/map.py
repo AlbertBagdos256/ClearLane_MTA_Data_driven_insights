@@ -12,12 +12,12 @@ st.set_page_config(
 # ------------------------
 # Load Prebuilt Map
 # ------------------------
-map_file = "data/bus_map.html"
+map_file = "bus_map.html"
 
 if os.path.exists(map_file):
+    st.markdown("### Interactive map")
     with open(map_file, "r", encoding="utf-8") as f:
         map_html = f.read()
-
     # Display the HTML map
     st.components.v1.html(map_html, height=800, scrolling=True)
 else:
