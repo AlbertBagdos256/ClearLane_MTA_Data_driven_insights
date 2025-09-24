@@ -23,11 +23,12 @@ load_custom_css("assets/style.css")
 
 # ------------------------
 # Data Loading
-# ------------------------
+# --------------------------
 @st.cache_data
 def load_csv(dataset_name: str) -> pd.DataFrame:
-    base_dir = os.path.dirname(os.path.dirname(__file__))
-    data_dir = os.path.join(base_dir, "data")
+    # Always resolve relative to repo root
+    base_dir = os.path.dirname(os.path.dirname(__file__))  # Dashboards/
+    data_dir = os.path.join(base_dir, "data")             # Dashboards/data/
     path = os.path.join(data_dir, f"{dataset_name}.csv")
 
     if not os.path.exists(path):
@@ -35,6 +36,8 @@ def load_csv(dataset_name: str) -> pd.DataFrame:
         return pd.DataFrame()
 
     return pd.read_csv(path)
+
+
 
 
 # ------------------------
