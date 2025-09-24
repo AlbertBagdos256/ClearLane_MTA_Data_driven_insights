@@ -1,0 +1,45 @@
+,campus_name,violation_type,violations
+6,Hostos Community College,MOBILE BUS STOP,631
+7,Hostos Community College,MOBILE BUS LANE,411
+8,Hostos Community College,MOBILE DOUBLE PARKED,187
+18,Guttman Community College,MOBILE BUS STOP,66
+19,Guttman Community College,MOBILE BUS LANE,501
+24,New York City College of Technology,MOBILE BUS STOP,4464
+25,New York City College of Technology,MOBILE BUS LANE,33
+26,New York City College of Technology,MOBILE DOUBLE PARKED,887
+30,School of Labor and Urban Studies,MOBILE BUS STOP,621
+31,School of Labor and Urban Studies,MOBILE BUS LANE,696
+32,School of Labor and Urban Studies,MOBILE DOUBLE PARKED,8
+33,School of Law,MOBILE BUS STOP,246
+34,School of Law,MOBILE BUS LANE,4
+35,School of Law,MOBILE DOUBLE PARKED,164
+36,The Graduate School and University Center,MOBILE BUS STOP,1793
+37,The Graduate School and University Center,MOBILE BUS LANE,2336
+38,The Graduate School and University Center,MOBILE DOUBLE PARKED,78
+42,School of Public Health,MOBILE BUS STOP,4498
+43,School of Public Health,MOBILE BUS LANE,14555
+44,School of Public Health,MOBILE DOUBLE PARKED,523
+45,School of Journalism,MOBILE BUS STOP,118
+46,School of Journalism,MOBILE BUS LANE,997
+47,School of Journalism,MOBILE DOUBLE PARKED,6
+51,Baruch College,MOBILE BUS STOP,3973
+52,Baruch College,MOBILE BUS LANE,2564
+53,Baruch College,MOBILE DOUBLE PARKED,3085
+57,The City College of New York,MOBILE BUS STOP,5333
+58,The City College of New York,MOBILE BUS LANE,344
+59,The City College of New York,MOBILE DOUBLE PARKED,15234
+60,School of Medicine,MOBILE BUS STOP,2675
+61,School of Medicine,MOBILE BUS LANE,227
+62,School of Medicine,MOBILE DOUBLE PARKED,9986
+63,Hunter College,MOBILE BUS STOP,3592
+64,Hunter College,MOBILE BUS LANE,1808
+65,Hunter College,MOBILE DOUBLE PARKED,315
+69,Lehman College,MOBILE BUS STOP,2682
+70,Lehman College,MOBILE BUS LANE,1
+71,Lehman College,MOBILE DOUBLE PARKED,3864
+72,Queens College,MOBILE BUS STOP,1609
+73,Queens College,MOBILE BUS LANE,16
+74,Queens College,MOBILE DOUBLE PARKED,310
+75,York College,MOBILE BUS STOP,13298
+76,York College,MOBILE BUS LANE,1005
+77,York College,MOBILE DOUBLE PARKED,2698
